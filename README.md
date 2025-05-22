@@ -21,13 +21,13 @@ Bienvenido a mi rincón digital. Aquí no solo encontrarás código, sino tambi�
 
 ## 💡 Proyectos destacados
 
-🌟 **[NominaPlus](https://github.com/tu-usuario/NominaPlus)**  
+🌟 **[NominaPlus]([https://github.com/tu-usuario/NominaPlus](https://github.com/abraham-gzld/nominaEmpleados))**  
 Gestor de nóminas con Flask + MySQL. Automatiza, calcula, y ahorra tiempo.  
 > 🔹 Generación de recibos  
 > 🔹 Registro de incapacidades  
 > 🔹 Deducciones y percepciones automáticas
 
-🌟 **[ShopCart](https://github.com/tu-usuario/ShopCart)**  
+🌟 **[BlackCode]([https://github.com/tu-usuario/ShopCart](https://github.com/abraham-gzld/blackcode))**  
 Carrito de compras con envío dinámico según el estado.  
 > 📦 Calcula costos según ubicación  
 > 🧾 Genera resumen de compra  
@@ -45,9 +45,8 @@ Carrito de compras con envío dinámico según el estado.
 
 ## 📫 Conectemos
 
-- 🌐 [Mi portafolio](https://tu-portfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)  
-- 📧 Email: tunombre@email.com
+- 💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/abraham-gonzalez-a996a3341/))  
+- 📧 Email: abraham.gzld@gmail.com
 
 ---
 
