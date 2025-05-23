@@ -15,7 +15,7 @@ Bienvenido a mi rincón digital. Aquí no solo encontrarás código, sino tambi�
 
 ## 🔧 Tecnologías con las que trabajo
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,react,git,github,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" alt="Tech Stack" />
 
 ---
 
